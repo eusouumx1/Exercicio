@@ -1,0 +1,6 @@
+@awaaw_HostAddress = http://localhost:5046
+
+GET {{awaaw_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
